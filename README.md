@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianperezd&label=Profile%20views&color=0e75b6&style=flat" alt="cristianperezd" /> </p>
 
-- 🔭 I’m currently working on **a project for checking hidden changes on Tarkov Game**
+- 🔭 I’m currently working on **the course of 100 days of python from Udemy**
 
 - 📫 How to reach me **cristianperezd0@gmail.com**
 
