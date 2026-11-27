@@ -3,7 +3,7 @@
 # Hi, I'm Cristian Pérez Díaz
 
 <a href="https://github.com/Cristianperezd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Embedded+Software+Engineer;C%2FC%2B%2B+%C2%B7+Python+%C2%B7+STM32+%C2%B7+FreeRTOS;Firmware+%C2%B7+Industrial+communications" alt="Embedded Software Engineer · C/C++ · Python · STM32 · FreeRTOS · Firmware · Industrial communications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=C%2FC%2B%2B+%C2%B7+Python+%C2%B7+STM32+%C2%B7+FreeRTOS;Bootloaders+%C2%B7+Secure+firmware+updates;PROFINET+%C2%B7+EtherNet%2FIP+%C2%B7+CAN;Real-time+systems+%C2%B7+Embedded+Linux" alt="C/C++ · Python · STM32 · FreeRTOS · Bootloaders · Secure firmware updates · PROFINET · EtherNet/IP · CAN · Real-time systems · Embedded Linux" />
 </a>
 
 **Embedded Software Engineer** · Barcelona
