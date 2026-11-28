@@ -77,11 +77,15 @@ Firmware, industrial communications and real-time systems, mostly in **C/C++** a
       <p>Bachelor's thesis. A Snake game built in Pygame to compare classic search agents (<b>GBFS</b>, <b>A*</b>) with reinforcement learning (<b>PPO</b>).</p>
       <p>Over 50 games, <b>A* averaged 78 points</b> versus 21 for PPO. Now revisited as a maintained project:</p>
       <ul>
+        <li>Playable in the browser, no install needed</li>
         <li>Live view of the path A* plans and the cells it explores</li>
         <li>Pretrained PPO agent, ready to run</li>
         <li><code>snake-ai</code> CLI, regression tests and CI</li>
         <li>Semantic versioning, from the original thesis (v1.0.0) onwards</li>
       </ul>
+      <p>
+        <a href="https://cristianperezd.github.io/TFG-Snake/"><img src="https://img.shields.io/badge/%E2%96%B6_Play_in_the_browser-2EA043?style=for-the-badge" alt="Play in the browser" /></a>
+      </p>
       <p>
         <a href="https://github.com/Cristianperezd/TFG-Snake/releases/latest"><img src="https://img.shields.io/github/v/release/Cristianperezd/TFG-Snake?style=flat-square&label=release" alt="Latest release" /></a>
         <a href="https://github.com/Cristianperezd/TFG-Snake/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/Cristianperezd/TFG-Snake/tests.yml?branch=main&style=flat-square&label=tests" alt="Tests" /></a>
